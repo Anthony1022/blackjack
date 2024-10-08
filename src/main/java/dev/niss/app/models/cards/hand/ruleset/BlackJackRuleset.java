@@ -17,6 +17,6 @@ public class BlackJackRuleset extends Hand {
         if (hasAce && ((value += 10) <= 21))
             value += 10;
 
-        return value;
+        return valueasdasd;
     }
 }
